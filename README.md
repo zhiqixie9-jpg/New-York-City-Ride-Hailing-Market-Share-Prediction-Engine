@@ -1,4 +1,4 @@
-# SDSC6009-Project-New-York-City-Ride-Hailing-Market-Share-Prediction-Engine
+# New-York-City-Ride-Hailing-Market-Share-Prediction-Engine
 # NYC Rideshare Market Share Prediction Model
 
 This model integrates temporal, geographic, business, and meteorological dimensions to capture the dynamic competition between High-Volume For-Hire Vehicles (HVFHV, e.g., Uber/Lyft) and traditional NYC Taxis (Yellow/Green). 
